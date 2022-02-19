@@ -4,10 +4,10 @@
 
 ### Intro to Tokenomics
 **[All You Need to Know About Tokenomics](https://medium.com/coinmonks/all-you-need-to-know-about-tokenomics-39642fe11d02)**
-- Great starting point outlining the basics of tokenomics and overview of the key variables: supply, burning, monetary policy, token distribution and earnings
+- Basics of tokenomics and overview of the key variables: supply, burning, monetary policy, token distribution and earnings
 
 **[An Introduction to Token Economics](https://alexbeckett.medium.com/an-introduction-to-token-economics-tokenomics-c6eb9211778f)**
-- Similar level of detail to link above, but with a bit more detailed exploration on token distribution
+- Exploring supply and demand drivers for tokens, with a high level overivew on token distribution for UNI 
 
 **[Tokenomics 101: The Basics of Evaluating Cryptocurrencies](https://every.to/almanack/tokenomics-101)**
 - Tokenomics breakdown through the lens of supply + demand as opposed to the underlying driveres (e.g. burning, monetary policy, etc.), with a high-level analysis on Convex Finance
