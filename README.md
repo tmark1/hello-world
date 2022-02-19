@@ -1,6 +1,6 @@
 # Tokenomics Resources
 
-## Tokenomics
+## Tokenomics 101 Level Content
 
 ### Intro to Tokenomics
 **[All You Need to Know About Tokenomics](https://medium.com/coinmonks/all-you-need-to-know-about-tokenomics-39642fe11d02)**
@@ -32,6 +32,7 @@ _Analysis/articles covering initial tokenomics, governing principles and associa
 _High level framework / key questions for evaluating tokenomics_
 
 **Supply**
+
 Key Question(s): Based on supply alone, will this token hold or increase it's value? Or will that be inflated away?
 
 **Total Supply**
