@@ -72,5 +72,5 @@ Key Question: Why would someone hold this token?
 - How much selling pressure is generated upon lockup expiration (and at what dates)?
 - Are there other non-monetary benefits to staking + locking up tokens? For example, does staking result in increased voting power?
 
-### DAO-specific Content
+## DAO-specific Content
 - [Interactive Design & Tooling for DAOs](https://blog.aragon.org/incentive-design-tooling-for-daos/)
